@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+</head>
+<body>
+
+	<form>
+	<input type="text"name="m_text"id="m_texr">
+	<button><img src="${pageContext.request.contextPath}/resources/image/images.png"  class="img1" width="20px" ></img></button>
+	</form>
+	<ul>
+		<li href="#">공지상황</li>
+		<li>맛집리뷰</li>
+		<li>커뮤니티</li>
+		<li>FQL</li>
+	</ul>
+	
+</body>
+</html>
