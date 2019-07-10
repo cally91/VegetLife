@@ -48,12 +48,8 @@
 	</form>
 	<section>
 		<div class="rew">
-			<a href="#"><img src="">윗 이미지1</a> <a href="#"><img src="">윗 이미지2</a>
-			<a href="#"><img src="">윗 이미지3</a>
-		</div>
-		<div class="rew">
-			<a href="#"><img src="">중간 이미지1</a> <a href="#"><img src="">중간 이미지2</a>
-			<a href="#"><img src="">중간 이미지3</a>
+			<a href="#"><img src="">내용</a> <a href="#"><img src="">내용</a>
+			<a href="#"><img src="">내용</a>
 		</div>
 		<div class="">
 			<p>이달의 추천 식당</p>
